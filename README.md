@@ -47,7 +47,7 @@ Standard Shipping accounted for 63% of total sales, and the highest customer pre
 - No discount (0%) tiers contributed modest sales, yet delivered the highest profit margins, suggesting healthier unit economics.
 - Deep discounts were ineffective at boosting sales and further intensified the loss.
 - The most profitable transactions occurred without any discount, highlighting the potential of full-price sales when value is communicated.
-![profitability](https://github.com/user-attachments/assets/e9bcb236-6a69-4eab-b484-f3362c6bc7c4)
+![monthly_sales](https://github.com/user-attachments/assets/b3d47db1-2caa-4a9f-a90a-e2cb1654fa1c)![profitability](https://github.com/user-attachments/assets/e9bcb236-6a69-4eab-b484-f3362c6bc7c4)
 
 
 #### Customer Purchase Behaviour
