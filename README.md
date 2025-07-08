@@ -1,4 +1,4 @@
-### Sales and Operational Performance Analysis
+### Market Trends and Fulfillment Analysis
 This analysis focuses on a U.S.-based e-commerce business operating across four regions and 268 cities in 2014. Leveraging transactional data, the project explores key drivers of sales and profitability by examining customer behaviour, product performance, demographics, and operational efficiency. The objective is to generate insights that enhance profitability, improve customer satisfaction, and optimise logistics across the business.
 
 [View detailed analysis here](https://github.com/TheDataCode/E-Commerce-Sales-and-Operational-Performance-Analysis/blob/main/Sales%20analysis.ipynb)
