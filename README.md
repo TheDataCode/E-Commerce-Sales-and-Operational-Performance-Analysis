@@ -34,6 +34,7 @@ Standard Shipping accounted for 63% of total sales, and the highest customer pre
 #### Customer Purchasing Behaviour
 - The Consumer segment was the primary revenue driver, reflecting better market penetration and customer engagement, largely driven by consistent discounting across all tiers
 - The Home Office segment recorded the highest Average Order Value, indicating that while it had fewer transactions, each order was of relatively higher value on average.
+![segment_distribution](https://github.com/user-attachments/assets/363aa617-f9f8-4ac2-baaf-e18df860719a)
 
 #### Product Performance
 - The Home Office segment dominated in profit margins across all categories, especially in Office Supplies and Technology, which contributed 20% each.
