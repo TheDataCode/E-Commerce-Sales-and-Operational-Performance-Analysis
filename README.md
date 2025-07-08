@@ -11,12 +11,12 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
   - [Monthly Sales Trend](#monthly-sales-trend)
   - [Product Segment Performance](#product-segment-performance)
   - [Discount Strategy Impact](#impact-of-discount-on-profitability)
-  - [Regional Performance and Market Opportunity](#regional-performance-and-market-opportunity)
+  - [Market Segmentation](#market-segmentation-and-opportunity)
   - [Shipping and Logistics](#shipping-preferences-and-operational-risk)
 - [Insights](#insights-deep-dive)
   - [Sales Trend and Profitability](#sales-trend-and-profitability)
   - [Customer Purchase Behaviour](#customer-purchase-behaviour)
-  - [Product Metrics](#product-performance)
+  - [Product Metrics](#product-metrics)
   - [Market Segmentation](#market-segmentation)
   - [Logistics Efficiency](#fulfilment-efficiency)
 - [Recommendations](#recommendations)
@@ -34,7 +34,7 @@ However, the Home Office segment recorded the highest Average Order Value. This 
 ##### Impact of Discount on Profitability
 The discounting strategy significantly undermined profitability, especially within the 21–50% discount range, where increased sales volumes failed to yield corresponding profits. This trend is particularly pronounced in the Consumer segment, which received the most substantial discounts — over 70% of sales in this segment involved discounts exceeding 50%, yet it generated the lowest profit margins. Within this segment, the Furniture and Office Supplies categories were notably unprofitable, with profit margins as low as 1% and 9%, respectively.
 
-##### Regional Performance and Market Opportunity
+##### Market Segmentation and Opportunity
 Cities in the Southern and Central regions appear less frequently in the top rankings, which shows potential for market development.
 Cities such as Springfield and Richmond, despite ranking among the top 15 in customer density, contributed minimally to overall sales and profit. This discrepancy suggests a potential gap in brand affinity.
 
