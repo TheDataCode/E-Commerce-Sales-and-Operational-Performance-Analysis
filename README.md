@@ -4,19 +4,37 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
 [View detailed analysis here](https://github.com/TheDataCode/E-Commerce-Sales-and-Operational-Performance-Analysis/blob/main/Sales%20analysis.ipynb)
 
 
+
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+  - [Monthly Sales Trend](#monthly-sales-trend)
+  - [Product Segment Performance](#product-segment-performance)
+  - [Discount Strategy Impact](#impact-of-discount-on-profitability)
+  - [Regional Performance and Market Opportunity](#regional-performance-and-market-opportunity)
+  - [Shipping and Logistics](#shipping-preferences-and-operational-risk)
+
+
+
+
 ### Executive Summary
+##### Monthly Sales Trend
 The monthly sales trend for 2014 demonstrated significant variability, with pronounced peaks in months like March, September, and November, and noticeable troughs in other months. This pattern suggests the presence of seasonal demand cycles, promotional influences, or external market factors affecting customer purchasing behaviour. The peak months accounted for 45% of the total annual sales.
 Sales exhibited a consistent upward trajectory across all four quarters, indicating sustained growth momentum throughout the year.
 
+##### Product Segment Performance
 The Consumer segment accounted for the highest total revenue, contributing 55% of overall sales. However, this heavy reliance on a single segment presents a potential risk, particularly if market dynamics shift or competitive pressures increase.
 However, the Home Office segment recorded the highest Average Order Value. This indicates potential for high-margin premium offerings.
 
+##### Impact of Discount on Profitability
 The discounting strategy significantly undermined profitability, especially within the 21–50% discount range, where increased sales volumes failed to yield corresponding profits. This trend is particularly pronounced in the Consumer segment, which received the most substantial discounts — over 70% of sales in this segment involved discounts exceeding 50%, yet it generated the lowest profit margins. Within this segment, the Furniture and Office Supplies categories were notably unprofitable, with profit margins as low as 1% and 9%, respectively.
 
+##### Regional Performance and Market Opportunity
 Cities in the Southern and Central regions appear less frequently in the top rankings, which shows potential for market development.
 Cities such as Springfield and Richmond, despite ranking among the top 15 in customer density, contributed minimally to overall sales and profit. This discrepancy suggests a potential gap in brand affinity.
 
-Across all regions and product categories, the majority of shipping modes consistently met standard delivery timelines. Same-day delivery performed reliably with minimal delays, as expected. However, occasional delays were observed in the West region, particularly within the Technology category.
+##### Shipping Preferences and Operational Risk
+Across all regions and product categories, the majority of shipping modes consistently met standard delivery timelines. Same-day delivery performed reliably with minimal delays, as expected. However, occasional delays were observed in the West region, particularly within the Technology category.                                                                    
 Standard Shipping accounted for 63% of total sales, and the highest customer preference for cost-effective delivery options. While this indicates high adoption of the Standard Class, it also suggests a potential operational risk, as overreliance on a single shipping mode may increase vulnerability to service disruptions or delays.
 
 
