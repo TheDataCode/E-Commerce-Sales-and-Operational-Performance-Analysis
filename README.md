@@ -5,7 +5,7 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
 
 
 
-## Table of Contents
+### Table of Contents
 
 - [Executive Summary](#executive-summary)  
 - [Insights](#insights-deep-dive)
@@ -13,7 +13,7 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
   - [Customer Purchase Behaviour](#customer-purchase-behaviour)
   - [Product Metrics](#product-metrics)
   - [Market Segmentation](#market-segmentation)
-  - [Logistics Efficiency](#fulfilment-efficiency)
+  - [Fulfilment Efficiency](#fulfilment-efficiency)
 - [Recommendations](#recommendations)
 
 
