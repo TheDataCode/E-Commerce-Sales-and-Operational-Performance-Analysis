@@ -7,12 +7,7 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
 
 ## Table of Contents
 
-- [Executive Summary](#executive-summary)
-  - [Monthly Sales Trend](#monthly-sales-trend)
-  - [Product Segment Performance](#product-segment-performance)
-  - [Discount Strategy Impact](#impact-of-discount-on-profitability)
-  - [Market Segmentation](#market-segmentation-and-opportunity)
-  - [Shipping and Logistics](#shipping-preferences-and-operational-risk)
+- [Executive Summary](#executive-summary)  
 - [Insights](#insights-deep-dive)
   - [Sales Trend and Profitability](#sales-trend-and-profitability)
   - [Customer Purchase Behaviour](#customer-purchase-behaviour)
