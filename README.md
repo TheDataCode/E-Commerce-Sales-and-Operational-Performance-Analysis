@@ -13,8 +13,13 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
   - [Discount Strategy Impact](#impact-of-discount-on-profitability)
   - [Regional Performance and Market Opportunity](#regional-performance-and-market-opportunity)
   - [Shipping and Logistics](#shipping-preferences-and-operational-risk)
-
-
+- [Insights](#insights-deep-dive)
+  - [Sales Trend and Profitability](#sales-trend-and-profitability)
+  - [Customer Purchase Behaviour](#customer-purchase-behaviour)
+  - [Product Metrics](#product-performance)
+  - [Market Segmentation](#market-segmentation)
+  - [Logistics Efficiency](#logistics-efficiency)
+- [Recommendations](#recommendations)
 
 
 ### Executive Summary
@@ -49,19 +54,22 @@ Standard Shipping accounted for 63% of total sales, and the highest customer pre
 - The most profitable transactions occurred without any discount, highlighting the potential of full-price sales when value is communicated.
 ![profitability](https://github.com/user-attachments/assets/e9bcb236-6a69-4eab-b484-f3362c6bc7c4)
 
-#### Customer Purchasing Behaviour
+
+#### Customer Purchase Behaviour
 - The Consumer segment was the primary revenue driver, reflecting better market penetration and customer engagement, largely driven by consistent discounting across all tiers
 - The Home Office segment recorded the highest Average Order Value, indicating that while it had fewer transactions, each order was of relatively higher value on average.
 ![segment_distribution](https://github.com/user-attachments/assets/363aa617-f9f8-4ac2-baaf-e18df860719a)
 
-#### Product Performance
+
+#### Product Metrics
 - The Home Office segment dominated in profit margins across all categories, especially in Office Supplies and Technology, which contributed 20% each.
 - The Corporate segment achieved profit margins of 18% in the Technology category and 17% in Office Supplies.
 - The Consumer segment had the lowest profit margin share, especially in Furniture (1%) and Office Supplies (9%) categories. Consumer segments with poor profit margins reflect an over-reliance on  discounts.
 - Office Supplies were distributed relatively evenly across discount thresholds ranging from 20% to 80%, indicating broad promotional coverage. In contrast, most Furniture products received average discounts of 50% or less, suggesting a more conservative discounting approach within that category.
 ![profit_margin](https://github.com/user-attachments/assets/255ca42e-3230-43dd-84eb-e8ba9a2c8bc6)
 
-#### Demographic Analysis
+
+#### Market segmentation
  _City-Level Performance Across Order Count, Profit, Sales_
 - Cities in the Southern and Central regions appeared less frequently in the top rankings.
 - New York City dominated across all metrics. The highest in sales, profit, and order count, making it the most valuable market overall.
@@ -70,7 +78,7 @@ Standard Shipping accounted for 63% of total sales, and the highest customer pre
 ![sales_profit_order](https://github.com/user-attachments/assets/70e93023-fbe9-4234-a985-84d43f3c09e6)
 
 
-#### Logistics Efficiency
+#### Fulfilment Efficiency
 - All shipping modes across regions and categories met the standard delivery timeline. Same-day delivery performed as expected with no delays, though slight disruptions were noted in the West region for the Technology category.
 - Standard Shipping accounted for 63% of total sales and showed a high volume of shipments, indicating a strong customer preference for cost-effective delivery options.
 - Low adoption of Same Day shipping	suggests limited availability or pricing barriers.
