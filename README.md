@@ -18,7 +18,7 @@ This analysis focuses on a U.S.-based e-commerce business operating across four 
   - [Customer Purchase Behaviour](#customer-purchase-behaviour)
   - [Product Metrics](#product-performance)
   - [Market Segmentation](#market-segmentation)
-  - [Logistics Efficiency](#logistics-efficiency)
+  - [Logistics Efficiency](#fulfilment-efficiency)
 - [Recommendations](#recommendations)
 
 
